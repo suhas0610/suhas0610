@@ -13,21 +13,13 @@
 
 ### About
 
-```python
-class Suhas:
-    role      = "Full Stack Developer & AI Builder"
-    education = "B.Tech, Computer Science (IoT) — VIT Vellore, 2025"
-    builds    = ["enterprise web apps", "workflow automation", "AI agents"]
-    stack     = {
-        "frontend": ["Angular", "TypeScript", "HTML", "CSS"],
-        "backend":  ["Java", "Spring Boot", "REST APIs", "MySQL"],
-        "cloud":    ["Google Cloud Platform"],
-        "ai":       ["Python", "LLM-powered automation"],
-    }
-    off_duty  = ["Cricket", "Open Source", "Gaming", "Tech Podcasts", "Cooking"]
-```
+I design and ship business applications end to end — from Angular interfaces and Spring Boot services to cloud deployments on GCP and production support. Lately I spend my evenings building **AI agents** that automate real, repetitive work.
 
-I design and ship full stack business applications end to end — from Angular screens and Spring Boot services to GCP deployments and production support. Lately I spend my evenings building **AI agents** that automate real, repetitive work.
+- **Education** — B.Tech, Computer Science (IoT), VIT Vellore · 2025
+- **Frontend** — Angular, TypeScript, HTML, CSS
+- **Backend** — Java, Spring Boot, REST APIs, MySQL
+- **Cloud & AI** — Google Cloud Platform, Python, LLM-powered automation
+- **Off duty** — Cricket, open source, gaming, tech podcasts, cooking
 
 ---
 
