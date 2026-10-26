@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Suhas%20Munagala&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <p align="center">
-<a href="https://github.com/suhas0610"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Engineer+%40+Ford+Motor+Company;Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+GCP+%E2%80%A2+Python;Building+AI+agents+that+do+real+work;Shipping+legacy+%E2%86%92+modern%2C+all+the+way+to+prod" alt="Typing intro"/></a>
+<a href="https://github.com/suhas0610"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+full+stack+products+%26+AI+agents;Angular+%E2%80%A2+Spring+Boot+%E2%80%A2+GCP+%E2%80%A2+Python;Building+AI+agents+that+do+real+work;Shipping+legacy+%E2%86%92+modern%2C+all+the+way+to+prod" alt="Typing intro"/></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Ford%20Motor%20Company-Full%20Stack%20Engineer-0b3d91?style=for-the-badge&logo=ford&logoColor=white"/>
 <img src="https://img.shields.io/badge/VIT%20Vellore-B.Tech%20CSE%20(IoT)-1e293b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-0f766e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-0f766e?style=for-the-badge"/>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 
 ```python
 class Suhas:
-    role      = "Full Stack Engineer @ Ford Motor Company (Business IT)"
+    role      = "Full Stack Developer & AI Builder"
     education = "B.Tech, Computer Science (IoT) — VIT Vellore, 2025"
     builds    = ["enterprise web apps", "workflow automation", "AI agents"]
     stack     = {
@@ -68,7 +67,7 @@ A hands-free content pipeline that researches the week's most interesting AI inn
 <tr>
 <td width="50%" valign="top">
 
-#### Legacy App Modernisation — Ford
+#### Enterprise Legacy App Modernisation
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 Migrated business-critical screens off a legacy platform as part of a decommissioning programme — rebuilt, taken through UAT and launched to production successfully.
